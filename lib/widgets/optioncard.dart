@@ -15,7 +15,7 @@ class cardOption extends StatelessWidget {
           option,
           textAlign:TextAlign.center,
           style: const TextStyle(
-            fontSize: 22.0,
+            fontSize: 18.0,
 
           ),
         ),

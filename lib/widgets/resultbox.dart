@@ -24,7 +24,7 @@ class resultBox extends StatelessWidget {
               'Result',
               style: TextStyle(color: neutral, fontSize: 25.0),
             ),
-            SizedBox(
+            const SizedBox(
               height: 20.0,
             ),
             CircleAvatar(
